@@ -1,0 +1,1 @@
+This depot want to create database to manage the schools
